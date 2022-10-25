@@ -55,3 +55,4 @@ wl_label.pack()
 button = Button(root,text="Spin",font=("bell mt",10),command=spin)
 button.pack()
 root.mainloop()
+# ready to play you need to chose options only 
